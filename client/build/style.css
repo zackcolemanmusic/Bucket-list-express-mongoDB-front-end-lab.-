@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 500px;
+}
+
+#populate {
+  display: inline-block;
+  float: right;
+  padding: 10px;
+  margin-right: 20px;
+}
+
+#yoda-pic {
+  float: right;
+  width: 300px;
+}
